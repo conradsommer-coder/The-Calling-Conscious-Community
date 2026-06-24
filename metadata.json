@@ -1,0 +1,6 @@
+{
+  "name": "The Calling",
+  "description": "A minimal, premium landing page for a spiritual gathering named THE CALLING.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
